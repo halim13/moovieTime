@@ -73,3 +73,15 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+### deploy app
+
+[Netlify](https://moovietime.netlify.app/)
+
+
+### screenshoot
+<img width="1524" alt="image" src="https://github.com/user-attachments/assets/eea8dea2-b30e-4d75-bef9-fba10fe362c8" />
+
+<img width="1520" alt="image" src="https://github.com/user-attachments/assets/f1c18b35-96db-4cb1-96a1-260f51d665d2" />
+
