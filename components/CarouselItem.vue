@@ -33,7 +33,7 @@ function getImageSrc(img) {
     <img :src=getImageSrc(image) alt="" loading="lazy" class="w-[244px] min-h-[465px] max-h-[465px] object-cover">
     <div class="bg-black my-8 p-4 rounded-tr-lg rounded-br-lg">
       <div class="flex flex-row gap-2 font-bold items-center mb-1">
-        <img src="@/assets/icon/star.png" class="h-4 w-4" alt="">
+        <img src="@/assets/icon/Star.png" class="h-4 w-4" alt="">
         <h1 class="text-white">{{ score }}</h1>
       </div>
       <p class="text-white mb-2 text-lg font-bold line-clamp-2">{{ title }}</p>
